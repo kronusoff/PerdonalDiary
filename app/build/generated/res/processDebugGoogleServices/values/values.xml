@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">181806015182</string>
+    <string name="google_api_key" translatable="false">AIzaSyAW1E9A61nl6yhGMp3EqtMBRlyTFF6aIvE</string>
+    <string name="google_app_id" translatable="false">1:181806015182:android:35969a44184ac649e9e69f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAW1E9A61nl6yhGMp3EqtMBRlyTFF6aIvE</string>
+    <string name="google_storage_bucket" translatable="false">diary-62a55.firebasestorage.app</string>
+    <string name="project_id" translatable="false">diary-62a55</string>
+</resources>

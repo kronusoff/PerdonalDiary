@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Личный дневник</string>
+
+    <!-- LoginActivity -->
+    <string name="welcome_text">Добро пожаловать!</string>
+    <string name="email_hint">Электронная почта</string>
+    <string name="password_hint">Пароль</string>
+    <string name="confirm_password_hint">Подтвердите пароль</string>
+    <string name="create_account_button">Создать аккаунт</string>
+    <string name="already_have_account_text">Уже есть аккаунт?</string>
+    <string name="login_button_text">Войти</string>
+    <string name="sign_up_button_text">Зарегистрироваться</string>
+
+    <!-- CreateAccountActivity -->
+    <string name="subtitle_text">Зарегистрируйте свою историю здесь..!</string>
+
+    <!-- MainActivity -->
+    <string name="page_title">Ваши заметки</string>
+    <string name="search_hint">Искать заметки...</string>
+    <string name="logout">Выйти</string>
+
+    <!-- Note details -->
+    <string name="note_title">ДАТА/МЕСЯЦ/ГОД</string>
+    <string name="note_content">Здесь может быть содержимое дневника, которое может быть длинным</string>
+    <string name="note_timestamp">Заголовок дневника</string>
+
+    <!-- Note actions -->
+    <string name="delete_note">Удалить заметку</string>
+    <string name="add_note">Добавить новый день</string>
+    <string name="save_note">Сохранить</string>
+    <string name="share_note">Поделиться</string>
+
+    <!-- NoteDetailsActivity -->
+    <string name="select_date_hint">Выберите дату</string>
+    <string name="start_your_day_hint">Начните свой день...</string>
+    <string name="add_media">Добавить медиа</string>
+</resources>

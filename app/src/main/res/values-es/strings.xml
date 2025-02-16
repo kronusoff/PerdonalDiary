@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Diario Personal</string>
+
+    <!-- LoginActivity -->
+    <string name="welcome_text">¡Bienvenido!</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="create_account_button">Crear cuenta</string>
+    <string name="already_have_account_text">¿Ya tienes una cuenta?</string>
+    <string name="login_button_text">Iniciar sesión</string>
+    <string name="sign_up_button_text">Registrarse</string>
+
+    <!-- CreateAccountActivity -->
+    <string name="subtitle_text">Registra tu historia aquí..!</string>
+
+    <!-- MainActivity -->
+    <string name="page_title">Tus Notas</string>
+    <string name="search_hint">Buscar notas...</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <!-- Note details -->
+    <string name="note_title">FECHA/MES/AÑO</string>
+    <string name="note_content">Esto puede ser el contenido del diario que puede ser largo</string>
+    <string name="note_timestamp">Título del diario</string>
+
+    <!-- Note actions -->
+    <string name="delete_note">Eliminar nota</string>
+    <string name="add_note">Agregar nuevo día</string>
+    <string name="save_note">Guardar</string>
+    <string name="share_note">Compartir</string>
+
+    <!-- NoteDetailsActivity -->
+    <string name="select_date_hint">Seleccionar fecha</string>
+    <string name="start_your_day_hint">Comienza tu día...</string>
+    <string name="add_media">Agregar multimedia</string>
+</resources>

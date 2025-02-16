@@ -1,0 +1,22 @@
+<resources>
+    <!-- Цвет фона -->
+    <color name="background_light">#E3F2FD</color>
+
+    <!-- Цвет для кнопок и действий при нажатии -->
+    <color name="button_action">#FF03DAC5</color>
+
+    <!-- Цвета для текста -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="title_text_color">#333333</color>  <!-- Темный текст -->
+    <color name="text_primary">#333333</color>  <!-- Темно-серый текст -->
+    <color name="text_button">#FFFFFFFF</color>  <!-- Белый текст в кнопках -->
+
+    <!-- Цвет для меню и разделителей -->
+    <color name="menu_button_tint">#333333</color> <!-- Темно-серый для кнопки меню -->
+    <color name="divider">#DDDDDD</color>  <!-- Линия-разделитель -->
+
+    <!-- Дополнительные цвета -->
+    <color name="accent">#4A90E2</color>  <!-- Голубой акцент для кнопки -->
+    <color name="error">#D32F2F</color>  <!-- Красный для удаления -->
+</resources>
